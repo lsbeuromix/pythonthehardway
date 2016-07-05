@@ -1,0 +1,2 @@
+# pythonthehardway
+going through PTHW
